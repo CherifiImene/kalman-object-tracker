@@ -1,4 +1,3 @@
-# kalman-object-tracker
 # Kalman Tracker Command-Line App
 
 ## Overview
@@ -51,7 +50,7 @@ python track.py --mode single --video-source 0
 ````
 
 ## System Design
-![ System Design]("./docs/system_design.png")
+![ System Design]("docs/system_design.png")
 
 
 ## Justification of choices made
