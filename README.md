@@ -50,7 +50,7 @@ python track.py --mode single --video-source 0
 ````
 
 ## System Design
-![ System Design]("docs/system_design.png")
+![ System Design](https://github.com/CherifiImene/kalman-object-tracker/blob/main/docs/system_design.png)
 
 
 ## Justification of choices made
@@ -81,5 +81,5 @@ When using Kalman Filter the residual covariance could be passed to this distanc
 - serves well for an MVP
 
 ## Estimated velocities and displacements on the example videos
-![ Persons]("results\movement_video_senators.png")
+![ Persons](https://github.com/CherifiImene/kalman-object-tracker/blob/main/results/movement_video_senators.png")
 
