@@ -81,5 +81,5 @@ When using Kalman Filter the residual covariance could be passed to this distanc
 - serves well for an MVP
 
 ## Estimated velocities and displacements on the example videos
-![ Persons](https://github.com/CherifiImene/kalman-object-tracker/blob/main/results/movement_video_senators.png")
+![ Persons](https://github.com/CherifiImene/kalman-object-tracker/blob/main/results/movement_video_senators.png)
 
